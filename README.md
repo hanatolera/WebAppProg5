@@ -1,1 +1,1 @@
-Hosted at: https://hanatolera.github.io/WebAppProg5/food.html# WebAppProg5
+Hosted at: https://hanatolera.github.io/WebAppProg5/food.html
